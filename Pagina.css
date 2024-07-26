@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(207, 203, 166, 0.897);
+}
+
+h1{
+    text-align: center;
+    color: rgb(7, 8, 8);
+}
+
+h4{
+    text-align: center;
+    color: rgb(7, 7, 7);
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    background-position: center;
+    display: block; 
+    margin: 0 auto;
+}
